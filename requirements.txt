@@ -1,0 +1,1 @@
+npm i @tailwindcss/forms @tailwindcss/typography @tailwindcss/aspect-ratio
